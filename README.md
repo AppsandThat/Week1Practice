@@ -1,6 +1,8 @@
 ### :octocat: Git Your Practice On!
 
-BoYi (Emma) Zhang
+github account: ellight
+Name: BoYi(Emma) Zhang
+
 #UBC APP and THAT, WEEK 1: GIT PRACTICE
 
 ## Instructions
@@ -371,4 +373,5 @@ git help <command>
 
 DAVID BALDWIN
 
+github account: ellight
 BoYi (Emma) Zhang
